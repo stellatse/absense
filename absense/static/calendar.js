@@ -1,0 +1,1 @@
+var calendar = $('#calendar').calendar({events_source: '/api/events'});
